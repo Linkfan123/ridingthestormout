@@ -1,2 +1,2 @@
 # ridingthestormout
-A random text-based adventure that I decided to try out because why not
+This project has been scrapped for years. Might come back to it at some point.
